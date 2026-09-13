@@ -1,5 +1,5 @@
 # Esteban
-# ¡Hola, soy [Juan Esteban]! 👋
+# ¡Hola, soy Juan Esteban! 👋
 
 ### 🚀 Un poco sobre mí
 - 🔭 Actualmente estoy trabajando en **mejorar mis habilidades de programación**
