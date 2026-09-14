@@ -6,7 +6,7 @@ Estudiante de **Ingeniería en Sistemas Computacionales** | Apasionado por el **
 
 ### 🛠️ Proyectos en los que he trabajado
 - ⚡ **Proyecto ZEUS:** Sistema IoT para la gestión y monitoreo del consumo eléctrico en hogares (Python, MySQL, Blender 3D).
-- 🚌 **Rutas Mante App:** Aplicación móvil interactiva para consultar rutas de transporte público en Flutter.
+- 🚌 **Rutas App:** Aplicación móvil interactiva para consultar rutas de transporte público en Flutter.
 - 🤖 **Asistente Virtual IA:** Desarrollo de una IA interactiva orientada a la respuesta en tiempo real (Python & Java).
 
 ---
