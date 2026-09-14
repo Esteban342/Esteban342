@@ -31,8 +31,14 @@ Estudiante de **Ingeniería en Sistemas Computacionales** | Apasionado por el **
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Esteban342&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban342&layout=compact&theme=radical)
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esteban342&theme=radical&hide_border=true" alt="Esteban342 Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban342&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+</p>
 
 ---
 
