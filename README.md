@@ -1,17 +1,23 @@
-# Juan Esteban Mejorado Martínez
-`Ingeniero en Sistemas Computacionales | Software & IoT Developer`
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Juan Esteban Mejorado"
+        self.role = "Software & IoT Developer"
+        self.location = "Ciudad Mante, Tamaulipas"
+        
+    def get_tech_stack(self):
+        return {
+            "languages": ["Python", "Java", "JavaScript"],
+            "databases": ["MySQL"],
+            "mobile_and_web": ["Flutter", "HTML/CSS"],
+            "tools": ["Git", "Blender", "Linux"]
+        }
 
----
+    def contact_me(self):
+        return {
+            "email": "estebanmejoradomartinez@gmail.com",
+            "linkedin": "[linkedin.com/in/esteban-mejorado-martínez](https://linkedin.com/in/esteban-mejorado-martínez)"
+        }
 
-### Sobre mí
-Desarrollador enfocado en el diseño de software, arquitecturas de bases de datos y desarrollo de aplicaciones móviles/web. Experiencia en proyectos de IoT, scripting y programación orientada a objetos.
-
-### Stack Principal
-- **Lenguajes:** Python • Java • JavaScript
-- **Bases de Datos & Backend:** MySQL • Arquitectura de BD • REST APIs
-- **Desarrollo Móvil & Web:** Flutter • HTML5 • CSS3
-- **Herramientas:** Git • Blender (Python Scripting) • Linux
-
-### Contacto
-- **LinkedIn:** [linkedin.com/in/esteban-mejorado-martínez](https://www.linkedin.com/in/esteban-mejorado-mart%C3%ADnez-7182493b4/)
-- **Correo:** estebanmejoradomartinez@gmail.com
+# Initializing profile...
+esteban = Developer()
