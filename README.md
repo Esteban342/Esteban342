@@ -1,19 +1,43 @@
-# ⚡ Juan Esteban | Software Developer
+<div align="center">
 
-<p align="left"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&color=00F0FF&background=FFFFFF00&width=450&lines=Transformando+ideas+en+c%C3%B3digo...;Desarrollador+Python%2C+Java+%26+Flutter;" />
-</p>
+  <!-- Banner con estilo Cyberpunk/Neón con tu nombre -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,30&height=200&section=header&text=Juan%20Esteban&fontSize=60&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-### 💻 Stack Tecnológico
+  <h1>👋 ¡Hola! Soy Esteban</h1>
 
-**Lenguajes & Frameworks**
-[![Skill Icons](https://skillicons.dev/icons?i=python,java,js,flutter,html,css)](https://skillicons.dev)
+  <p><b>Ingeniero en Sistemas Computacionales | Apasionado por la tecnología & el código 🚀</b></p>
 
-**Bases de Datos & Herramientas**
-[![Skill Icons](https://skillicons.dev/icons?i=mysql,blender,linux,git,github,vscode)](https://skillicons.dev)
+  <!-- Typing GIF / Texto animado -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=Full+Stack+and+IoT+Developer;Python%2C+Java+%26+JavaScript;UI%2FUX+%26+Mobile+Apps" alt="Typing SVG" />
+  </a>
 
----
+  <br/><br/>
 
-### 🌐 Redes & Contacto
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-mejorado-mart%C3%ADnez-7182493b4/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:estebanmejoradomartinez@gmail.com)
+  ---
+
+  ### 🛠️ Tecnologías & Herramientas
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flutter,mysql,blender,linux,git&perline=5" />
+  </p>
+
+  ---
+
+  ### 📫 ¡Conectemos!
+
+  <p>
+    <a href="https://www.linkedin.com/in/esteban-mejorado-mart%C3%ADnez-7182493b4/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:estebanmejoradomartinez@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+  <br/>
+
+  <!-- Vistas del perfil simples y estéticas -->
+  <img src="https://komarev.com/ghpvc/?username=Esteban342&color=6c5ce7&style=flat-square&label=Vistas+del+Perfil" alt="Views" />
+
+</div>
