@@ -1,51 +1,19 @@
-# ¡Hola! Soy Juan Esteban Mejorado Martínez 👋
+# ⚡ Juan Esteban | Software Developer
 
-Estudiante de **Ingeniería en Sistemas Computacionales** | Apasionado por el **Desarrollo Backend**, **IoT**, **Bases de Datos** y **Desarrollo Móvil/Web**.
-
----
-
-### 🛠️ Proyectos en los que he trabajado
-- ⚡ **Proyecto ZEUS:** Sistema IoT para la gestión y monitoreo del consumo eléctrico en hogares (Python, MySQL, Blender 3D).
-- 🚌 **Rutas App:** Aplicación móvil interactiva para consultar rutas de transporte público en Flutter.
-- 🤖 **Asistente Virtual IA:** Desarrollo de una IA interactiva orientada a la respuesta en tiempo real (Python & Java).
-
----
-
-### 💻 Stack Tecnológico & Herramientas
-
-#### Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### Desarrollo Frontend & Móvil
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Bases de Datos, Modelado & Infraestructura
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esteban342&theme=radical&hide_border=true" alt="Esteban342 Streak" />
+<p align="left"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&color=00F0FF&background=FFFFFF00&width=450&lines=Transformando+ideas+en+c%C3%B3digo...;Desarrollador+Python%2C+Java+%26+Flutter;" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban342&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</p>
+### 💻 Stack Tecnológico
+
+**Lenguajes & Frameworks**
+[![Skill Icons](https://skillicons.dev/icons?i=python,java,js,flutter,html,css)](https://skillicons.dev)
+
+**Bases de Datos & Herramientas**
+[![Skill Icons](https://skillicons.dev/icons?i=mysql,blender,linux,git,github,vscode)](https://skillicons.dev)
 
 ---
 
-### 📫 Contacto & Redes
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-mejorado-mart%C3%ADnez-7182493b4/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebanmejoradomartinez@gmail.com)
-
----
-*⚡ Dato curioso: Además de programar y diseñar arquitecturas de base de datos, me apasiona la música y siempre me verás escuchando una buena playlist mientras tiro código.* 🎵
+### 🌐 Redes & Contacto
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-mejorado-mart%C3%ADnez-7182493b4/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:estebanmejoradomartinez@gmail.com)
