@@ -3,7 +3,7 @@ class Developer:
     def __init__(self):
         self.name = "Esteban Mejorado"
         self.role = "Software & IoT Developer"
-        self.location = "Ciudad Mante, Tamaulipas"
+        self.location = "Mexico, Tamaulipas"
         
     def get_tech_stack(self):
         return {
