@@ -1,7 +1,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Esteban Mejorado"
+        self.name = "Esteban Mejorado M."
         self.role = "Software & IoT Developer"
         self.location = "Mexico, Tamaulipas"
         
